@@ -29,3 +29,8 @@ c) git diff commit1 commit2: Shows differences between the staging area and the 
 5. Github has many benefits. It makes it it easy to make or contribute to your favorite open source projects, it stores a copy of your projects repository just like any other developer, Markdown ect.
 
 6. Committed means that the data is safely stored in your local database so whenever you write something that works. I'll do a commit to save my progress.
+
+7. 
+	Working driectory: The working tree is a single checkout of one version of the project. These files are pulled out of the compressed database in the Git directory and placed on disk for you to use or modify.
+	Staging Area: The staging area is a file, generally contained in your Git directory, that stores information about what will go into your next commit.
+	Repository: You do a commit, which takes the files as they are in the staging area and stores that snapshot permanently to your Git directory.
