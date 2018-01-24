@@ -38,3 +38,5 @@ c) git diff commit1 commit2: Shows differences between the staging area and the 
 8. We can use branches when we are trying something new and dont want to risk our correct code. If the the branch works we can merge it with the rest of our code.
 
 9. Git was created by Linus Torvalds in 2005 for development of the Linux kernel, with other kernel developers contributing to its initial development.
+
+10. Everywhere where people work with computers. Github is used by so many companies like Google and Microsoft to name the biggest.
