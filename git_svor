@@ -34,3 +34,5 @@ c) git diff commit1 commit2: Shows differences between the staging area and the 
 	Working driectory: The working tree is a single checkout of one version of the project. These files are pulled out of the compressed database in the Git directory and placed on disk for you to use or modify.
 	Staging Area: The staging area is a file, generally contained in your Git directory, that stores information about what will go into your next commit.
 	Repository: You do a commit, which takes the files as they are in the staging area and stores that snapshot permanently to your Git directory.
+
+8. We can use branches when we are trying something new and dont want to risk our correct code. If the the branch works we can merge it with the rest of our code.
