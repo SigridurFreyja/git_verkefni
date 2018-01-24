@@ -1,0 +1,8 @@
+git_svör
+
+1. 
+a) cd: The cd comman is used to change the current directory.
+b) cd ~: Typing "~" is easier than typing the full name of the user's home directory.
+c) ls: Lists directory contents of files and directories.
+d) pwd: Prints the name of the working directory.
+e) mkdir: Creates new directories in your file system.
