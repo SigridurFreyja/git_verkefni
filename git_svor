@@ -23,3 +23,5 @@ e) git checkout: Switch branches or restore working tree files.
 a) get diff: Shows differences between commit.
 b) git diff --staged: Shows differences between the working directory and the staging area.
 c) git diff commit1 commit2: Shows differences between the staging area and the Repository.
+
+4. It manages changes to documents, computer programs, large web sites, and other collections of information.
