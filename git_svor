@@ -1,8 +1,20 @@
 git_svör
 
 1. 
-a) cd: The cd comman is used to change the current directory.
+a) cd: The cd command is used to change the current directory.
 b) cd ~: Typing "~" is easier than typing the full name of the user's home directory.
 c) ls: Lists directory contents of files and directories.
 d) pwd: Prints the name of the working directory.
 e) mkdir: Creates new directories in your file system.
+
+2.
+a) git clone: Clones a repository into a new directory.
+	- Clones a repository into a newly created directory.
+b) git log: Shows commit logs.
+	- Because its shows the commit logs.
+c) git status: Shows the working tree status.
+	- Displays paths differences.
+d) git diff: Shows changes between commits, commit and working tree, etc.
+	- It shows us differneces.
+e) git checkout: Switch branches or restore working tree files.
+	- Updates files in the working tree to match the version in the index or the specified tree.
