@@ -27,3 +27,5 @@ c) git diff commit1 commit2: Shows differences between the staging area and the 
 4. It manages changes to documents, computer programs, large web sites, and other collections of information.
 
 5. Github has many benefits. It makes it it easy to make or contribute to your favorite open source projects, it stores a copy of your projects repository just like any other developer, Markdown ect.
+
+6. Committed means that the data is safely stored in your local database so whenever you write something that works. I'll do a commit to save my progress.
