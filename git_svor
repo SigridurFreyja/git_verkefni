@@ -18,3 +18,8 @@ d) git diff: Shows changes between commits, commit and working tree, etc.
 	- It shows us differneces.
 e) git checkout: Switch branches or restore working tree files.
 	- Updates files in the working tree to match the version in the index or the specified tree.
+
+3.
+a) get diff: Shows differences between commit.
+b) git diff --staged: Shows differences between the working directory and the staging area.
+c) git diff commit1 commit2: Shows differences between the staging area and the Repository.
